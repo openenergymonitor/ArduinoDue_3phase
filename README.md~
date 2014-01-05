@@ -15,7 +15,7 @@ part of openenergymonitor.org project
 *****************************************************************
 
 Based on emonLib: https://github.com/openenergymonitor/EmonLib
-Modifed for Arduino Due and 3 Phase by icboredman (boredman@boredomprojects.net) - Jan 2014
+Modifed for Arduino Due and 3 Phase by icboredman - Jan 2014
 
 Download to Arduino IDE 'libraries' folder. Restart of IDE required.
 
