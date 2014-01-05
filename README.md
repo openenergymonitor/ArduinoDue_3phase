@@ -23,3 +23,4 @@ Includes example sketch "ArduinoDue_3phase.ino" showing how to use Due as an Emo
 * 10 lines are connected to different phases, therefore, an extra parameter was added to functions voltage() and voltageTX() indicating a particular phase number.
 * The AC-AC line voltage adapter must be connected to phase 1.
 
+See blog post on using Arduino Due as energy monitor: http://boredomprojects.net/index.php/projects/home-energy-monitor
