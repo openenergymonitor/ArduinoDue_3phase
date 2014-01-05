@@ -3,13 +3,6 @@ ArduinoDue_3phase
 
 Arduino Due (Arm Cortex M3, 12-bit ADC) 3-Phase Example Library
 
-                             _      _ _     
-                            | |    (_) |    
-   ___ _ __ ___   ___  _ __ | |     _| |__ 
-  / _ \ '_ ` _ \ / _ \| '_ \| |    | | '_ \ 
- |  __/ | | | | | (_) | | | | |____| | |_) |
-  \___|_| |_| |_|\___/|_| |_|______|_|_.__/ 
-
 Arduino Energy Monitoring Library - compatible with Arduino 1.0 
 part of openenergymonitor.org project
 *****************************************************************
